@@ -1,0 +1,20 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.14",
+    "chrome-location": "^1.2.1",
+    "promise-poller": "^1.9.1",
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra-plugin-recaptcha": "^3.4.0",
+    "request-promise-native": "^1.0.9",
+    "user-agents": "^1.0.755"
+  }
+}
