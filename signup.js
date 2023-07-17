@@ -3,7 +3,7 @@ const request = require("request-promise-native");
 const poll = require("promise-poller").default;
 const chromeLocation = require("chrome-location");
 const siteDetails = {
-  sitekey: "6LeO36obAAAAALSBZrY6RYM1hcAY7RLvpDDcJLy3",
+  sitekey: "",
   pageurl: "https://www.spotify.com/pk-en/signup/",
 };
 
