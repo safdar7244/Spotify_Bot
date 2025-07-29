@@ -237,5 +237,7 @@ const timeout = (millis) =>
   new Promise((resolve) => setTimeout(resolve, millis));
 
 console.log("Script started...");
+
+console.log("Script started...");
 console.log("Please wait for the script to complete...");
 console.log("You can close the browser once the script is done.");
