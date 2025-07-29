@@ -235,3 +235,6 @@ function requestCaptchaResults(apiKey, requestId) {
 
 const timeout = (millis) =>
   new Promise((resolve) => setTimeout(resolve, millis));
+
+console.log("Script started...");
+console.log("Please wait for the script to complete...");
