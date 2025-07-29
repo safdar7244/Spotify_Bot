@@ -238,3 +238,4 @@ const timeout = (millis) =>
 
 console.log("Script started...");
 console.log("Please wait for the script to complete...");
+console.log("You can close the browser once the script is done.");
